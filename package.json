@@ -1,0 +1,22 @@
+{
+  "name": "df.warm_nest",
+  "version": "1.0.0",
+  "description": "my home",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dy-Aoi/df.git"
+  },
+  "author": "Devin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dy-Aoi/df/issues"
+  },
+  "homepage": "https://github.com/Dy-Aoi/df#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
